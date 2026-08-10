@@ -26,7 +26,7 @@ I'm a Computer Science student passionate about building and deploying intellige
 
 📫 Let's Connect
 
-* 🌐 Portfolio: [rajazain12.github.io/portfolio](https://rajazain12.github.io/portfolio/)
+* Portfolio: [rajazain12.github.io/portfolio](https://rajazain12.github.io/portfolio/)
 * LinkedIn: [linkedin.com/in/zain-tanveer-ai](https://www.linkedin.com/in/zain-tanveer-ai)
 * Email: [zaintanveer1632@gmail.com](mailto:zaintanveer1632@gmail.com)
 
