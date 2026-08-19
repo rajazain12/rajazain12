@@ -1,7 +1,7 @@
 Hi, I'm Zain Tanveer 👋
 AI Engineer
 
-I'm a Computer Science student passionate about building and deploying intelligent systems. My focus is on Natural Language Processing (NLP) and Computer Vision, with a strong interest in creating technology that enhances accessibility and user experience.
+I am a Computer Science graduate passionate about building and deploying scalable full-stack applications and intelligent systems. Combining modern web engineering with a deep interest in Artificial Intelligence, I focus on creating high-performance, accessible technology that delivers seamless user experiences.
 
 🌐 Portfolio: [rajazain12.github.io/portfolio](https://rajazain12.github.io/portfolio/)
 
