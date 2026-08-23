@@ -25,6 +25,7 @@ I am a Computer Science graduate passionate about building and deploying scalabl
 🔗 [GitHub Repository](https://github.com/rajazain12/SubtitlePro)
 
 * **E-Commerce Platform** – A modern full-stack e-commerce web application featuring a dynamic product catalog, global Redux state management, secure JWT authentication, a comprehensive admin dashboard, and seamless Stripe payment gateway integration.
+
 🔗 [Live Demo](https://ecommerce-platform-befi.vercel.app/) · [GitHub Repository](https://github.com/rajazain12/ecommerce-platform)
 
 📫 Let's Connect
