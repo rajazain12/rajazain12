@@ -19,12 +19,13 @@ I am a Computer Science graduate passionate about building and deploying scalabl
 
 **Domains:** NLP · Computer Vision · Machine Learning · Neural Network Optimization · Data Pipelines
 
-📂 Featured Project
+📂 Featured Projects
 
 * **SubtitlePro** – An adaptive video subtitling mobile app with a real-time NLP profanity-filtering engine, auto-pause on inappropriate content, and a secure Parent Control Center with age-appropriate UX (emoji-enhanced subtitles for kids, advanced vocabulary support for teens).
 🔗 [GitHub Repository](https://github.com/rajazain12/SubtitlePro)
 
-* **E-Commerce Platform** – A modern full-stack e-commerce web application featuring a dynamic product catalog, global Redux state management, secure JWT authentication, a comprehensive admin dashboard, and seamless Stripe payment gateway integration[cite: 1]. 🔗 [GitHub Repository](https://github.com/rajazain12/ecommerce-platform)
+* **E-Commerce Platform** – A modern full-stack e-commerce web application featuring a dynamic product catalog, global Redux state management, secure JWT authentication, a comprehensive admin dashboard, and seamless Stripe payment gateway integration.
+🔗 [Live Demo](https://ecommerce-platform-befi.vercel.app/) · [GitHub Repository](https://github.com/rajazain12/ecommerce-platform)
 
 📫 Let's Connect
 
