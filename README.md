@@ -24,9 +24,6 @@ I am a Computer Science graduate passionate about building and deploying scalabl
 * **SubtitlePro** – An adaptive video subtitling mobile app with a real-time NLP profanity-filtering engine, auto-pause on inappropriate content, and a secure Parent Control Center with age-appropriate UX (emoji-enhanced subtitles for kids, advanced vocabulary support for teens).
 🔗 [GitHub Repository](https://github.com/rajazain12/SubtitlePro)
 
-* **E-Commerce Platform** – A modern full-stack e-commerce web application featuring a dynamic product catalog, global Redux state management, secure JWT authentication, a comprehensive admin dashboard, and seamless Stripe payment gateway integration.
-🔗 [GitHub Repository](https://github.com/rajazain12/ecommerce-platform)
-
 📫 Let's Connect
 
 * Portfolio: [rajazain12.github.io/portfolio](https://rajazain12.github.io/portfolio/)
