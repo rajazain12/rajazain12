@@ -1,7 +1,7 @@
 Hi, I'm Zain Tanveer 👋
 Full-Stack & Machine Learning Engineer
 
-I am a software developer specializing in computer vision, NLP, and cross-platform mobile development. With experience spanning freelance commercial projects and AI research, I am comfortable owning the full software lifecycle—from architecting secure SQL databases to deploying real-time neural networks and building seamless user interfaces.
+I am a software engineer specializing in autonomous AI automation, natural language processing, and cross-platform full-stack development. With experience spanning production client platforms and complex agentic systems, I am comfortable owning the full software lifecycle—from designing secure SQL architectures and sandboxed LLM execution layers to deploying low-latency voice pipelines and intuitive React interfaces.
 
 🌐 Portfolio: [rajazain12.github.io/portfolio](https://rajazain12.github.io/portfolio/)
 
@@ -25,7 +25,7 @@ I am a software developer specializing in computer vision, NLP, and cross-platfo
 * **The Luxury Lounge (Freelance)** – A full-stack e-commerce platform supporting 500+ daily sessions, featuring a custom admin console, direct-to-cloud media uploads via Cloudinary, and secure JWT role-based access. (React, Node.js, SQL Server)
 * **SubtitlePro** – An adaptive video subtitling mobile app featuring a real-time NLP profanity-filtering engine, auto-pause mechanics, and a FastAPI/SQL Server backend for seamless user state synchronization.
 🔗 [GitHub Repository](https://github.com/rajazain12/SubtitlePro)
-* **Ship Identification System** – A deep learning computer vision model trained to automatically identify ship classes from a single photograph, achieving ~90% test accuracy via optimized data augmentation pipelines.
+* **J.A.R.V.I.S. (Autonomous AI Agent)** – An end-to-end desktop automation platform utilizing Google Gemini for multi-step task planning and structured function-calling across 15+ native OS actions, featuring persistent vector memory and a security-hardened execution layer. (Python, FastAPI, React, TypeScript)
 
 📫 Let's Connect
 
